@@ -1,0 +1,10 @@
+String teachername = "Tess Løvgreen";
+int daysInYears = 365;
+String city = "København";
+boolean yes = true;
+int minutesHours = 60*24;
+float kg = 22.12;
+String greeting = "Hej, jeg heddder "+teachername;
+boolean no = false;
+float grams = 2.2 + 33;
+char snake = 'S';
